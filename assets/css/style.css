@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(154, 165, 174);
+    justify-content: center;
+}
+
+.calculator {
+    margin-top: 10%;
+    margin-left: 39%;
+    margin-right: 39%;
+    background-color: rgb(255, 198, 227);
+    height: 400px;
+}
+
+.button-area {
+    justify-content: center;
+    margin: auto;
+}
+
+.buttons {
+    justify-content: center;
+    margin: auto;
+}
+
+.btn {
+    font-size: 25px;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.display-area {
+    text-align: right;
+    width: 240px;
+    height: 60px;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.output-line {
+    font-size: 25px;
+}
